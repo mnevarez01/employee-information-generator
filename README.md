@@ -10,7 +10,7 @@
 * [License](##-License)
 
 ## Description 
-
+In this page you will be able to dynamically build your webpage containing all your Employee's information. Being able to easily access who is on your team makes you run more efficiently. 
 
 ## Installation
 You will need to install inquirer and jest to be able to run program. Using your terminal or bash input lines: 
@@ -24,6 +24,7 @@ Using node command you can run the program. In your terminal or bash input:
 * *"node app.js"*
 
 ## Usage
+
 
 ## Credits
 * Inquirer.js : https://www.npmjs.com/package/inquirer

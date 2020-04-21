@@ -71,13 +71,15 @@ managerRender.getID();
 managerRender.getOffice();
 
 
-{
-    type: "checkbox",
-        message: "What is your role?",
-            name: "role",
-                choices: ["Employee", "Manager", "Engineer", "Intern"]
+// ? does this go into the newEmployee file?
 
-},
+// {
+//     type: "checkbox",
+//         message: "What is your role?",
+//             name: "role",
+//                 choices: ["Employee", "Manager", "Engineer", "Intern"]
+
+// },
 
 // After the user has input all employees desired, call the `render` function (required
 // above) and pass in an array containing all employee objects; the `render` function will
